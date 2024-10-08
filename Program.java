@@ -1,5 +1,4 @@
 //var 20
-//task1. Remainder from division ->
 //C5 = 0 
 //C7 = 6 -->  matrix type - float
 //C11 = 9
